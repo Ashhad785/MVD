@@ -1,14 +1,21 @@
-# MVD
+# MVD : Moving Vehicle Detection
 
-This is the main branch for the code, data an application associated with the paper titled " MVD: A Novel Benchmark Dataset and Methodology for Robust Acoustic Vehicle Sub-type Classification"
+This is the main branch for the code, data an application associated with the paper titled "MVD: A Novel Benchmark Dataset and Methodology for Robust Acoustic Vehicle Sub-type Classification".
 
 Abstract- Traffic monitoring has emerged as an essential research area for improved traffic management on account of the surging population of urban cities. Acoustic traffic monitoring (ATM) has emerged to be a cost-effective and efficient alternative to more computationally expensive methods of monitoring traffic such as those involving computer vision technologies. In this paper we present MVD and MVDA: two open datasets for the development of acoustic traffic monitoring and  moving vehicle sub-type classification algorithms, which contains audio recordings of moving vehicles. The dataset contain four classes— Trucks, Cars, Motorbikes and a No-vehicle class. Additionally, we propose a novel and efficient way to classify these acoustic signals with great accuracy using cepstrum and spectrum based local and global audio features, and a multi-input neural network. Experimental results show that our methodology improves upon the established baselines on the IDMT-Traffic and IDMT-Augmented datasets and achieves an accuracy of 91.98% and 96.66% on our MVD and MVDA Datasets respectively. Finally, we deploy the proposed model through an Android application to make it accessible for testing and demonstrate its efficacy.   
+
+
+To replicate the results published on the Dataset, steps are as follows:
+
+Step 1 -> Download MVD Dataset and run code in "MVD feature Extraction.ipynb" to obtain features and .csv file.
+
+Step 2 -> Run the "MVD Classifier.ipynb" to obtain results.
 
 Link to download the MVD Dataset: https://drive.google.com/drive/folders/1kB-rEWlXDwuIPmEKp_qszpTqWRy_Gtmh?usp=sharing
 
 Link to download the MVDA dataset: https://drive.google.com/drive/folders/1Uu-Ed0jhHw0s3RHGTYxUqq_olxSucSHJ?usp=share_link
 
-Link to download the MVD app:
+Link to download the MVD app: https://drive.google.com/drive/folders/15I_krtXQWam1Ulm2rCJtrixcGQxTg_wZ?usp=sharing
 
 The datasets will soon be available on Kaggle.
 
