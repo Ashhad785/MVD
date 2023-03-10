@@ -17,9 +17,9 @@ Step 2 -> Run the "MVD Classifier.ipynb" to obtain results.
 
 Link to download the MVD Dataset: https://drive.google.com/drive/folders/1kB-rEWlXDwuIPmEKp_qszpTqWRy_Gtmh?usp=sharing
 
-Link to download the MVDA dataset: https://drive.google.com/drive/folders/1Uu-Ed0jhHw0s3RHGTYxUqq_olxSucSHJ?usp=share_link
+Link to download the MVDA Dataset: https://drive.google.com/drive/folders/1Uu-Ed0jhHw0s3RHGTYxUqq_olxSucSHJ?usp=share_link
 
-Link to download the MVD app: https://drive.google.com/drive/folders/15I_krtXQWam1Ulm2rCJtrixcGQxTg_wZ?usp=sharing
+Link to download the MVD Andoid App: https://drive.google.com/drive/folders/15I_krtXQWam1Ulm2rCJtrixcGQxTg_wZ?usp=sharing
 
 The datasets will soon be available on Kaggle.
 
