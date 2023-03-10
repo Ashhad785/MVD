@@ -28,6 +28,7 @@ Here "1256A1" is the recording number + augmentation code (A1: Time stretching ,
 
 Example 2 - "Recording_454A3_M_N"
 
-Here "454A3_M" is the recording number + augmentation code (A3: Noise Injection) + "M" corresponds to microphone name and can be used to uniquely identify the sample while "N" is the lable (None)
+Here "454A3_M" is the recording number + augmentation code (A3: Noise Injection) + "M" corresponds to microphone name and can be used to uniquely identify the sample while "N" is the lable (none).
 
+<img width="1199" alt="AppFin" src="https://user-images.githubusercontent.com/82571294/224412610-1451bedd-bb42-4352-a4ab-732923403f63.png">
 
