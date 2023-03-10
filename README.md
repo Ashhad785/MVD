@@ -12,13 +12,19 @@ The audios in the datasets have been named as follows:
 
 For MVD:
 
-Example 1 - "Recording_1891_O_C.wav"
+Example 1 - "Recording_1891_O_C"
 
 Here "1891" is the recording number of a particular microphone and "O" corresponds to the microphone name (the mics are named as follows: "O" ,"A","M" and "H") while "C" is the label {C: car , M: Motorbike , T: truck, N: none}. To uniquely identify a sample, the recording number and microphone name must be used together (in the given example, 1891_O can be used to uniquely identify the sample).
 
-Example 2- "Recording_546_H_T.wav"
+Example 2- "Recording_546_H_T"
 
 Here "546_H" is the recording number + microphone name and can be used to uniquely identify the sample while "T" is the label (truck).
 
 For MVDA:
+
+Example 1 - "Recording_1256A1_A_M"
+
+Here "1256A1" is the recording number + augmentation code (A1: , A2:, A3:) and "A" corresponds to the microphone name (the mics are named as follows: "O" ,"A","M" and "H") while "C" is the label {C: car , M: Motorbike , T: truck, N: none}. To uniquely identify a sample, the recording number, augmentation code and microphone name must be used together (in the given example, "1256A1_A" can be used to uniquely identify the sample).
+
+Example 2 -
 
