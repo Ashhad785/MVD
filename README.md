@@ -6,11 +6,11 @@ Abstract- Traffic monitoring has emerged as an essential research area for impro
 
 <br>
 <br>
-To replicate the results published on the Dataset, steps are as follows:
+To replicate the results published in the paper, steps are as follows:
 
-Step 1 -> Download MVD Dataset and run code in "MVD feature Extraction.ipynb" to obtain features and .csv file.
+Step 1 -> Download MVD Dataset and run code in "MVD feature Extraction.ipynb" to obtain features (in the form of a numpy array) and .csv file.
 
-Step 2 -> Run the "MVD Classifier.ipynb" to obtain results.
+Step 2 -> Run the "MVD Classifier.ipynb" and insert the path of the features and .csv file obtained from step 1 to replicate results.
 
 <br>
 <br>
