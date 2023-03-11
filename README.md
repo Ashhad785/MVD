@@ -57,4 +57,6 @@ Here "454A3_M" is the recording number + augmentation code (A3: Noise Injection)
 
 Above figure succintly explains working of the MVD Android application. The user has the option of recording a new sample or load an existing one. The app then shows the prediction as well as the confidence score.
 
+Acknowledgements: The authors would like to thank Ashad Naushad (Dept. of CSE, Jamia Hamdard) for his invaluable contribution in the app development process. https://www.linkedin.com/in/ashadnaushad/
+
 
