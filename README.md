@@ -5,12 +5,15 @@ This is the main branch for the code, data an application associated with the pa
 Abstract- Traffic monitoring has emerged as an essential research area for improved traffic management on account of the surging population of urban cities. Acoustic traffic monitoring (ATM) has emerged to be a cost-effective and efficient alternative to more computationally expensive methods of monitoring traffic such as those involving computer vision technologies. In this paper we present MVD and MVDA: two open datasets for the development of acoustic traffic monitoring and  moving vehicle sub-type classification algorithms, which contains audio recordings of moving vehicles. The dataset contain four classes— Trucks, Cars, Motorbikes and a No-vehicle class. Additionally, we propose a novel and efficient way to classify these acoustic signals with great accuracy using cepstrum and spectrum based local and global audio features, and a multi-input neural network. Experimental results show that our methodology improves upon the established baselines on the IDMT-Traffic and IDMT-Augmented datasets and achieves an accuracy of 91.98% and 96.66% on our MVD and MVDA Datasets respectively. Finally, we deploy the proposed model through an Android application to make it accessible for testing and demonstrate its efficacy.   
 
 <br>
-<br>
-To replicate the results published in the paper, steps are as follows:
 
+To replicate the results published in the paper, steps are as follows:
+<br>
 Step 1 -> Download MVD Dataset and run code in "MVD feature Extraction.ipynb" to obtain features (in the form of a numpy array) and .csv file.
 
 Step 2 -> Run the "MVD Classifier.ipynb" and insert the path of the features and .csv file obtained from step 1 to replicate results.
+
+<br>
+Note- The same code can be used to test the model on other datasets by simply changing the path of the dataset in "MVD feature Extraction.ipynb" and changing the code for extraction of labels depending on the naming structure of the audio samples wherever necessary.
 
 <br>
 <br>
