@@ -22,7 +22,7 @@ Link to download the MVD Dataset: https://drive.google.com/drive/folders/1VhPQAo
 
 Link to download the MVDA Dataset: https://drive.google.com/drive/folders/1Uu-Ed0jhHw0s3RHGTYxUqq_olxSucSHJ?usp=share_link
 
-Link to download the MVD Andoid App: https://drive.google.com/drive/folders/15I_krtXQWam1Ulm2rCJtrixcGQxTg_wZ?usp=share_link
+Link to download the MVD Andoid App: https://mega.nz/file/ROJm3a5R#-kk_U1H99xXLm8CYX6oF-RZAPFvCc0b7_UrJRZmUHr0
 
 The datasets will soon be available on Kaggle.
 
